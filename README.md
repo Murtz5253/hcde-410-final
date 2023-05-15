@@ -1,1 +1,2 @@
 # hcde-410-final
+This project aims to determine the different factors which have historically influenced student admissions into Ivy League colleges. In particular, the aim of this project is to see if the admissions standards of these universities are really as holistic as they publicly claim.
