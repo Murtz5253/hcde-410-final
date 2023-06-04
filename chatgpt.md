@@ -82,3 +82,22 @@ Certainly! Here are the normalized average GPAs for the Ivy League universities 
    - Average GPA: 4.0
 
 Please note that these normalized GPAs are based on the information provided in my previous response and are intended to provide a comparison on an unweighted scale. It's important to remember that grading scales and methodologies can vary among institutions, so these numbers are meant to give a general idea rather than exact conversions.
+
+## Query
+What is the total cost of attendance for the 8 ivy league colleges?
+
+## Response
+As of my knowledge cutoff in September 2021, the total cost of attendance for the Ivy League colleges can vary each year and may also differ based on factors such as residency status, financial aid eligibility, and individual circumstances. However, I can provide you with an estimate of the cost of attendance for the 2021-2022 academic year. Please note that these figures are subject to change, and I recommend visiting the official websites of the respective institutions for the most up-to-date information.
+
+Here is the estimated total cost of attendance (including tuition, fees, room, board, and other expenses) for the Ivy League colleges in the 2021-2022 academic year:
+
+1. Brown University: Approximately $80,000 per year.
+2. Columbia University: Approximately $80,000 per year.
+3. Cornell University: Approximately $78,000 per year.
+4. Dartmouth College: Approximately $80,000 per year.
+5. Harvard University: Approximately $80,000 per year.
+6. University of Pennsylvania: Approximately $78,000 per year.
+7. Princeton University: Approximately $75,000 per year.
+8. Yale University: Approximately $78,000 per year.
+
+Please keep in mind that these figures are approximate and can vary based on individual circumstances, financial aid, and any changes implemented by the institutions. I encourage you to check the official websites of each Ivy League college for the most accurate and updated information on the current cost of attendance.
